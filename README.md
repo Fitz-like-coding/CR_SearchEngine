@@ -6,19 +6,19 @@ run SearsiaServer by following command
 "java -jar searsiaserver.jar -m none -n gole -p /Users/zhengfang/OneDrive/Git\ Repository/Searsia/searsia/local_log -u http://localhost:16842/searsia" 
 
 usage: SearsiaServer
-- c,--cache <arg>      Set cache size (integer: number of result pages).
-- e,--exit             Exit immediately after startup.
-- h,--help             Show help.
-- i,--interval <arg>   Set poll interval (integer: in seconds).
-- l,--log <arg>        Set log level (0=off, 1=error, 2=warn=default,
+- -c,--cache <arg>      Set cache size (integer: number of result pages).
+- -e,--exit             Exit immediately after startup.
+- -h,--help             Show help.
+- -i,--interval <arg>   Set poll interval (integer: in seconds).
+- -l,--log <arg>        Set log level (0=off, 1=error, 2=warn=default,
                         3=info, 4=debug).
-- m,--mother <arg>     Set api template of the mother. ('none' for
+- -m,--mother <arg>     Set api template of the mother. ('none' for
                     standalone)
-- n,--name <arg>       Set my id (name).
-- o,--open             Open the system for on-line updates (be careful!)
-- p,--path <arg>       Set index path.
-- q,--quiet            No output on console.
-- u,--url <arg>        Set url of my web service endpoint.
+- -n,--name <arg>       Set my id (name).
+- -o,--open             Open the system for on-line updates (be careful!)
+- -p,--path <arg>       Set index path.
+- -q,--quiet            No output on console.
+- -u,--url <arg>        Set url of my web service endpoint.
 
  
 The client will connect to the Searsia server of "http://localhost:16842/searsia". To connect to another server, 
