@@ -1,0 +1,21 @@
+
+
+these two approaches both use the algorithm described in the article "Learning to Cluster Web Search Results", 
+it calculates the five properties for each phrase and lists the top topics by calculating the final score
+
+-multipleVertical topic mining-
+1. First merge all verticals results( Searsia has done this before, and I extented the results size to about 200 ) 
+2. do subtopics mining to the merged results 
+	1) Document parsing and phrase property calculation
+	2) phrase ranking, and noise filtering ( filter stop words and query word and any phrases whose length less than 2 )
+3. form result clusters (each cluster contains one distinct topic phrase and it's relative documents set )
+4. merge result clusters and output to web (those clusters whose documents set overlapped above 50% are merged into one new cluster and the topic with higher rankscore is the new cluster topic )
+	
+-SingleVertical topic mining-
+1. do subtopics mining to the results of each vertical( those verticals whose return results number exceed 5) and reserve top 100 topic results.
+2. merge topics of each vertical and calculate a new ranked list ( for each topic phrase, summing it's rankscore in all verticals) and reserve top 40 of them.
+	It's ideal if each vertical can output 200 hits because it can improve the performance of this mining algorithm. However, the number of results returned by each vertical is small, so it makes the big noise.
+3. form result clusters
+4. merge result clusters and output to web
+
+the performance can be improved in the future

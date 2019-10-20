@@ -1,0 +1,5 @@
+{"time":"2017-02-17 16:12:59.835","message":"Searsia restart"}
+{"time":"2017-02-17 17:01:43.504","message":"Sampling GoogleWeb2 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 890; The content of elements must consist of well-formed character data or markup."}
+{"time":"2017-02-17 17:14:22.17","message":"Searsia restart"}
+{"warning":"Unknown resource identifier: @BBCNews","time":"2017-02-17 17:14:27.380"}
+{"warning":"Unknown resource identifier: @BBCNews","time":"2017-02-17 17:44:07.346"}

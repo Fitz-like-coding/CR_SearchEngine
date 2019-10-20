@@ -1,0 +1,77 @@
+{"time":"2019-10-20 16:00:13.37","message":"Searsia restart"}
+{"query":"{apple}","time":"2019-10-20 16:00:42.59"}
+{"time":"2019-10-20 16:02:15.252","message":"Sampling GoogleImage failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&q=steam"}
+{"query":"steam","time":"2019-10-20 16:04:16.579","sample":"Youtube4"}
+{"message":"Flushed cache to index."}
+{"time":"2019-10-20 16:04:45.759","message":"Searsia restart"}
+{"time":"2019-10-20 16:04:58.497","message":"Searsia restart"}
+{"time":"2019-10-20 16:06:03.820","message":"Searsia restart"}
+{"resourceid":"","query":"","time":"2019-10-20 16:06:09.107"}
+{"resourceid":"GoogleImage2","query":"","time":"2019-10-20 16:06:09.137"}
+{"resourceid":"GoogleImage3","query":"","time":"2019-10-20 16:06:09.140"}
+{"resourceid":"GoogleImage4","query":"","time":"2019-10-20 16:06:09.146"}
+{"resourceid":"GoogleWeb2","query":"","time":"2019-10-20 16:06:09.147"}
+{"resourceid":"GoogleWeb3","query":"","time":"2019-10-20 16:06:09.147"}
+{"resourceid":"GoogleWeb4","query":"","time":"2019-10-20 16:06:09.148"}
+{"resourceid":"GoogleWeb","query":"","time":"2019-10-20 16:06:09.148"}
+{"resourceid":"BBCNews","query":"","time":"2019-10-20 16:06:09.148"}
+{"resourceid":"GoogleImage","query":"","time":"2019-10-20 16:06:09.150"}
+{"resourceid":"Youtube3","query":"","time":"2019-10-20 16:06:09.155"}
+{"resourceid":"Youtube","query":"","time":"2019-10-20 16:06:09.155"}
+{"resourceid":"Youtube4","query":"","time":"2019-10-20 16:06:09.155"}
+{"resourceid":"Youtube2","query":"","time":"2019-10-20 16:06:09.155"}
+{"resourceid":"","query":"apple","time":"2019-10-20 16:06:12.551"}
+{"resourceid":"Youtube","query":"apple","time":"2019-10-20 16:06:12.623"}
+{"resourceid":"GoogleWeb3","query":"apple","time":"2019-10-20 16:06:12.623"}
+{"resourceid":"GoogleImage2","query":"apple","time":"2019-10-20 16:06:12.623"}
+{"resourceid":"GoogleWeb2","query":"apple","time":"2019-10-20 16:06:12.624"}
+{"resourceid":"GoogleWeb5","query":"apple","time":"2019-10-20 16:06:12.626"}
+{"resourceid":"GoogleWeb","query":"apple","time":"2019-10-20 16:06:12.626"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2019-10-20 16:06:12.626"}
+{"resourceid":"Youtube3","query":"apple","time":"2019-10-20 16:06:12.629"}
+{"warning":"Resource @GoogleWeb unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=1&q=apple&hl=en","time":"2019-10-20 16:06:12.938"}
+{"warning":"Resource @GoogleWeb3 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=21&q=apple&hl=en","time":"2019-10-20 16:06:12.938"}
+{"warning":"Resource @GoogleImage2 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&start=11&q=apple","time":"2019-10-20 16:06:12.939"}
+{"warning":"Resource @GoogleWeb2 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=11&q=apple&hl=en","time":"2019-10-20 16:06:12.939"}
+{"resourceid":"GoogleImage3","query":"apple","time":"2019-10-20 16:06:12.947"}
+{"resourceid":"GoogleWeb4","query":"apple","time":"2019-10-20 16:06:12.947"}
+{"resourceid":"GoogleImage5","query":"apple","time":"2019-10-20 16:06:12.947"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2019-10-20 16:06:12.947"}
+{"warning":"Resource @GoogleImage3 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&start=21&q=apple","time":"2019-10-20 16:06:13.2"}
+{"warning":"Resource @GoogleWeb4 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=31&q=apple&hl=en","time":"2019-10-20 16:06:13.5"}
+{"time":"2019-10-20 16:08:05.618","message":"Sampling GoogleWeb3 failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=21&q=steam&hl=en"}
+{"query":"steam","time":"2019-10-20 16:10:06.523","sample":"Youtube2"}
+{"message":"Flushed cache to index."}
+{"query":"steam","time":"2019-10-20 16:12:07.681","sample":"Youtube4"}
+{"message":"Flushed cache to index."}
+{"time":"2019-10-20 16:14:07.788","message":"Sampling GoogleImage3 failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&start=21&q=steam"}
+{"time":"2019-10-20 16:16:07.844","message":"Sampling GoogleImage2 failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&start=11&q=steam"}
+{"time":"2019-10-20 16:18:07.903","message":"Sampling GoogleImage4 failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&start=31&q=steam"}
+{"time":"2019-10-20 16:20:07.967","message":"Sampling GoogleWeb failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=1&q=steam&hl=en"}
+{"time":"2019-10-20 16:22:08.25","message":"Sampling GoogleImage3 failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&start=21&q=steam"}
+{"time":"2019-10-20 16:24:08.119","message":"Sampling GoogleWeb2 failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=11&q=steam&hl=en"}
+{"query":"533","time":"2019-10-20 16:26:08.993","sample":"Youtube2"}
+{"message":"Flushed cache to index."}
+{"resourceid":"","query":"apple","time":"2019-10-20 16:26:44.281"}
+{"resourceid":"GoogleImage2","query":"apple","time":"2019-10-20 16:26:44.317"}
+{"resourceid":"GoogleWeb3","query":"apple","time":"2019-10-20 16:26:44.318"}
+{"resourceid":"GoogleWeb2","query":"apple","time":"2019-10-20 16:26:44.321"}
+{"resourceid":"GoogleWeb5","query":"apple","time":"2019-10-20 16:26:44.321"}
+{"resourceid":"GoogleWeb","query":"apple","time":"2019-10-20 16:26:44.321"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2019-10-20 16:26:44.321"}
+{"resourceid":"Youtube","query":"apple","time":"2019-10-20 16:26:44.321"}
+{"resourceid":"Youtube3","query":"apple","time":"2019-10-20 16:26:44.324"}
+{"warning":"Resource @GoogleImage2 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&start=11&q=apple","time":"2019-10-20 16:26:44.362"}
+{"resourceid":"GoogleImage3","query":"apple","time":"2019-10-20 16:26:44.365"}
+{"warning":"Resource @GoogleWeb3 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=21&q=apple&hl=en","time":"2019-10-20 16:26:44.366"}
+{"warning":"Resource @GoogleWeb2 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=11&q=apple&hl=en","time":"2019-10-20 16:26:44.368"}
+{"resourceid":"GoogleWeb4","query":"apple","time":"2019-10-20 16:26:44.369"}
+{"warning":"Resource @GoogleWeb unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=1&q=apple&hl=en","time":"2019-10-20 16:26:44.370"}
+{"resourceid":"GoogleImage5","query":"apple","time":"2019-10-20 16:26:44.372"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2019-10-20 16:26:44.372"}
+{"warning":"Resource @GoogleImage3 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&start=21&q=apple","time":"2019-10-20 16:26:44.415"}
+{"warning":"Resource @GoogleWeb4 unavailable: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=31&q=apple&hl=en","time":"2019-10-20 16:26:44.417"}
+{"time":"2019-10-20 16:28:09.70","message":"Sampling GoogleWeb4 failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&start=31&q=steam&hl=en"}
+{"query":"steam","time":"2019-10-20 16:30:09.274","sample":"BBCNews"}
+{"message":"Flushed cache to index."}
+{"time":"2019-10-20 16:32:09.357","message":"Sampling GoogleImage failed: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.googleapis.com/customsearch/v1?key=AIzaSyBD7SmIfD_z4MidlAI9Pk9gQGZKJvMd8iE&cx=011586583502765854428:qotbupkdqgq&num=10&searchType=image&q=steam"}

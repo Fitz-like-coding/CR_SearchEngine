@@ -1,0 +1,47 @@
+{"time":"2017-03-07 00:29:35.992","message":"Searsia restart"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:30:54.862"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:30:54.864"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:35:30.316"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:35:30.323"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:39:34.627"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:39:34.628"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:41:27.704"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:41:27.708"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:41:49.434"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:41:49.436"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:42:49.478"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:42:49.480"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:43:03.658"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:43:03.660"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:43:33.335"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:43:33.336"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:50:34.902"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:50:34.905"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:50:37.600"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:50:37.601"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:50:41.507"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:50:41.509"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:50:52.961"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:50:52.962"}
+{"warning":"Unknown resource identifier: @Youtube5","time":"2017-03-07 00:50:56.469"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:50:56.965"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:50:57.96"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:50:57.761"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:50:58.65"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:53:52.797"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:53:52.798"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:54:03.979"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:54:03.980"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 00:55:06.700"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 00:55:06.700"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 01:07:24.327"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 01:07:24.328"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 01:15:42.603"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 01:15:42.604"}
+{"time":"2017-03-07 15:44:52.194","message":"Searsia restart"}
+{"time":"2017-03-07 18:44:23.826","message":"Searsia restart"}
+{"time":"2017-03-07 18:52:30.445","message":"Sampling GoogleWeb2 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 6; columnNumber: 1187; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"time":"2017-03-07 21:29:43.549","message":"Sampling GoogleWeb2 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 16; columnNumber: 1187; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"time":"2017-03-07 23:42:32.810","message":"Sampling GoogleWeb2 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 4; columnNumber: 1189; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-07 23:57:34.932"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-07 23:57:34.932"}

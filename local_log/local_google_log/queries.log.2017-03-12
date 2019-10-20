@@ -1,0 +1,7 @@
+{"time":"2017-03-12 21:57:02.304","message":"Searsia restart"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-12 21:57:05.293"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-12 21:57:06.128"}
+{"warning":"Unknown resource identifier: @GoogleImage5","time":"2017-03-12 21:57:25.275"}
+{"warning":"Unknown resource identifier: @GoogleWeb5","time":"2017-03-12 21:57:25.280"}
+{"warning":"Unknown resource identifier: @Youtube5","time":"2017-03-12 21:57:25.867"}
+{"warning":"Resource @GoogleWeb2 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 20; columnNumber: 1011; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\".","time":"2017-03-12 21:57:27.260"}

@@ -1,0 +1,6 @@
+aveQU-score:	0.2762732
+aveD-nDCG@10:	0.22388679
+aveI-rec:	0.44615442
+aveD#-nDCG:	0.3350206
+aveAccuracy:	2.1752577
+aveV-score@10:	0.21752578

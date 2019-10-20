@@ -1,0 +1,1000 @@
+IMINE2-E-001	onlin	web
+IMINE2-E-001	cv store	image
+IMINE2-E-001	store	image
+IMINE2-E-001	app	news
+IMINE2-E-001	free	web
+IMINE2-E-001	pharmaci	web
+IMINE2-E-001	cv pharmaci	web
+IMINE2-E-001	tobacco product	image
+IMINE2-E-001	product	image
+IMINE2-E-001	tobacco	image
+IMINE2-E-002	transform	video
+IMINE2-E-002	video	video
+IMINE2-E-002	pictur	image
+IMINE2-E-002	bumbl bee	video
+IMINE2-E-002	bumblebe transform	web
+IMINE2-E-002	littl	video
+IMINE2-E-002	prime	video
+IMINE2-E-002	movi	web
+IMINE2-E-002	kid	video
+IMINE2-E-002	clip	video
+IMINE2-E-003	toni	web
+IMINE2-E-003	nba	web
+IMINE2-E-003	grizzli	web
+IMINE2-E-003	game	web
+IMINE2-E-003	memphi	web
+IMINE2-E-003	memphi grizzli	web
+IMINE2-E-003	album	video
+IMINE2-E-003	stat	web
+IMINE2-E-003	viewstoni	video
+IMINE2-E-003	music	video
+IMINE2-E-004	free	web
+IMINE2-E-004	top	video
+IMINE2-E-004	hang wallpap	video
+IMINE2-E-004	hang	video
+IMINE2-E-004	show	video
+IMINE2-E-004	shop	web
+IMINE2-E-004	love	web
+IMINE2-E-004	seri	news
+IMINE2-E-004	tip	video
+IMINE2-E-004	room	news
+IMINE2-E-005	free	web
+IMINE2-E-005	aria	video
+IMINE2-E-005	art	news
+IMINE2-E-005	opera hous	news
+IMINE2-E-005	hous	news
+IMINE2-E-005	music	video
+IMINE2-E-005	mobil	web
+IMINE2-E-005	imag	image
+IMINE2-E-005	best	video
+IMINE2-E-005	carmen	video
+IMINE2-E-006	health	image
+IMINE2-E-006	life	news
+IMINE2-E-006	secret	news
+IMINE2-E-006	secret life	news
+IMINE2-E-006	boi	news
+IMINE2-E-006	it'	web
+IMINE2-E-006	health benefit	image
+IMINE2-E-006	benefit	image
+IMINE2-E-006	drink	video
+IMINE2-E-006	viewsging	video
+IMINE2-E-007	get	video
+IMINE2-E-007	pinterest	image
+IMINE2-E-007	plai	video
+IMINE2-E-007	edit	video
+IMINE2-E-007	casino	web
+IMINE2-E-007	past	news
+IMINE2-E-007	blue	news
+IMINE2-E-007	year	news
+IMINE2-E-007	it'	news
+IMINE2-E-007	look	news
+IMINE2-E-008	nasa	web
+IMINE2-E-008	programm	news
+IMINE2-E-008	best	video
+IMINE2-E-008	planet	web
+IMINE2-E-008	bbc	news
+IMINE2-E-008	mickei	video
+IMINE2-E-008	cartoon	video
+IMINE2-E-008	movi	video
+IMINE2-E-008	mickei mous	video
+IMINE2-E-008	mous	video
+IMINE2-E-009	funni	video
+IMINE2-E-009	part	video
+IMINE2-E-009	part 1	video
+IMINE2-E-009	clip	video
+IMINE2-E-009	michel	video
+IMINE2-E-009	cute	video
+IMINE2-E-009	moment	video
+IMINE2-E-009	seri	news
+IMINE2-E-009	season	video
+IMINE2-E-009	home	web
+IMINE2-E-010	assassin	video
+IMINE2-E-010	john	web
+IMINE2-E-010	john f	web
+IMINE2-E-010	kennedi	web
+IMINE2-E-010	documentari	video
+IMINE2-E-010	airport	web
+IMINE2-E-010	take	video
+IMINE2-E-010	conspiraci	video
+IMINE2-E-010	jfk assassin	video
+IMINE2-E-010	movi	video
+IMINE2-E-011	game	video
+IMINE2-E-011	viewspersona	video
+IMINE2-E-011	persona 4	web
+IMINE2-E-011	persona 5	video
+IMINE2-E-011	4 danc	image
+IMINE2-E-011	night	image
+IMINE2-E-011	persona 4 danc	image
+IMINE2-E-011	danc	image
+IMINE2-E-011	seri	web
+IMINE2-E-011	persona seri	web
+IMINE2-E-012	tech	web
+IMINE2-E-012	virginia tech	web
+IMINE2-E-012	viewsvirginia	video
+IMINE2-E-012	servic	web
+IMINE2-E-012	map	image
+IMINE2-E-012	basketbal	video
+IMINE2-E-012	channel	video
+IMINE2-E-012	carolina	video
+IMINE2-E-012	north carolina	video
+IMINE2-E-012	north	video
+IMINE2-E-013	game	video
+IMINE2-E-013	serv	news
+IMINE2-E-013	locomot	news
+IMINE2-E-013	dai	news
+IMINE2-E-013	steam dai	news
+IMINE2-E-013	pc game	video
+IMINE2-E-013	first	news
+IMINE2-E-013	transmit	news
+IMINE2-E-013	first transmit	news
+IMINE2-E-013	ani	video
+IMINE2-E-014	video	video
+IMINE2-E-014	scottish border	news
+IMINE2-E-014	scottish	news
+IMINE2-E-014	look	video
+IMINE2-E-014	world	video
+IMINE2-E-014	intern	video
+IMINE2-E-014	intern border	video
+IMINE2-E-014	pinterest	image
+IMINE2-E-014	border council	news
+IMINE2-E-014	council	news
+IMINE2-E-015	citi	image
+IMINE2-E-015	manchest citi	image
+IMINE2-E-015	viewsmanchest	image
+IMINE2-E-015	monaco	image
+IMINE2-E-015	highlight	image
+IMINE2-E-015	champion	image
+IMINE2-E-015	leagu	image
+IMINE2-E-015	champion leagu	image
+IMINE2-E-015	uefa	image
+IMINE2-E-015	uefa champion	image
+IMINE2-E-016	playstat	video
+IMINE2-E-016	video	video
+IMINE2-E-016	viewsp	video
+IMINE2-E-016	blog	image
+IMINE2-E-016	playstation	image
+IMINE2-E-016	www	video
+IMINE2-E-016	bbc	news
+IMINE2-E-016	ps4	video
+IMINE2-E-016	befor	web
+IMINE2-E-016	ps vita	video
+IMINE2-E-017	music	video
+IMINE2-E-017	man	video
+IMINE2-E-017	trailer	video
+IMINE2-E-017	award	news
+IMINE2-E-017	fat	web
+IMINE2-E-017	poem	web
+IMINE2-E-017	video	video
+IMINE2-E-017	plai	news
+IMINE2-E-017	poet	news
+IMINE2-E-017	april	news
+IMINE2-E-018	best	news
+IMINE2-E-018	hawkin elizabeth alker	news
+IMINE2-E-018	elizabeth alker sit	news
+IMINE2-E-018	hawkin elizabeth	news
+IMINE2-E-018	chri hawkin	news
+IMINE2-E-018	sit	news
+IMINE2-E-018	alker	news
+IMINE2-E-018	alker sit	news
+IMINE2-E-018	hawkin	news
+IMINE2-E-018	chri	news
+IMINE2-E-019	video	video
+IMINE2-E-019	park	video
+IMINE2-E-019	like	video
+IMINE2-E-019	yosemit nation park	video
+IMINE2-E-019	nation park	video
+IMINE2-E-019	nation	video
+IMINE2-E-019	yosemit nation	video
+IMINE2-E-019	stai	web
+IMINE2-E-019	hotel	web
+IMINE2-E-019	land	news
+IMINE2-E-020	serena	image
+IMINE2-E-020	serena william	image
+IMINE2-E-020	venu	video
+IMINE2-E-020	william vs	video
+IMINE2-E-020	highlight	video
+IMINE2-E-020	tenni player	web
+IMINE2-E-020	player	web
+IMINE2-E-020	open	news
+IMINE2-E-020	women'	web
+IMINE2-E-020	jan	web
+IMINE2-E-021	apolog	web
+IMINE2-E-021	song	web
+IMINE2-E-021	video	video
+IMINE2-E-021	album	news
+IMINE2-E-021	dai	news
+IMINE2-E-021	unplug	video
+IMINE2-E-021	apologies	web
+IMINE2-E-021	lyric	web
+IMINE2-E-021	teen	video
+IMINE2-E-021	mtv	video
+IMINE2-E-022	brown	image
+IMINE2-E-022	aw tomahawk	image
+IMINE2-E-022	video	video
+IMINE2-E-022	challeng	video
+IMINE2-E-022	tomohawk	video
+IMINE2-E-022	tripl	news
+IMINE2-E-022	bone tomahawk	news
+IMINE2-E-022	bone	news
+IMINE2-E-022	www	video
+IMINE2-E-022	right	news
+IMINE2-E-023	beauti	video
+IMINE2-E-023	dai	video
+IMINE2-E-023	best	video
+IMINE2-E-023	video	video
+IMINE2-E-023	highlight	video
+IMINE2-E-023	epic	video
+IMINE2-E-023	war	video
+IMINE2-E-023	fail	video
+IMINE2-E-023	man	video
+IMINE2-E-023	week	video
+IMINE2-E-024	nestl	news
+IMINE2-E-024	chocol	video
+IMINE2-E-024	kit kat	video
+IMINE2-E-024	make	video
+IMINE2-E-024	bar	video
+IMINE2-E-024	sai	web
+IMINE2-E-024	make kitkat	video
+IMINE2-E-024	video	video
+IMINE2-E-024	channel	video
+IMINE2-E-024	eat	video
+IMINE2-E-025	mahomet-seymour	web
+IMINE2-E-025	seymour	video
+IMINE2-E-025	high school	web
+IMINE2-E-025	websit	web
+IMINE2-E-025	mahomet-seymour high school	web
+IMINE2-E-025	mahomet-seymour high	web
+IMINE2-E-025	march	video
+IMINE2-E-025	bulldog	video
+IMINE2-E-025	univers	video
+IMINE2-E-025	seymour high	image
+IMINE2-E-026	pictur	image
+IMINE2-E-026	bros	web
+IMINE2-E-026	warner bros	web
+IMINE2-E-026	studio	web
+IMINE2-E-026	theater	video
+IMINE2-E-026	trailer	video
+IMINE2-E-026	offici	video
+IMINE2-E-026	everyth	video
+IMINE2-E-026	offici trailer	video
+IMINE2-E-026	june	video
+IMINE2-E-027	philosophi	video
+IMINE2-E-027	plato	video
+IMINE2-E-027	philosoph	web
+IMINE2-E-027	greek	video
+IMINE2-E-027	know	web
+IMINE2-E-027	wa socrat	video
+IMINE2-E-027	apolog	video
+IMINE2-E-027	speech	video
+IMINE2-E-027	www	video
+IMINE2-E-027	geniu	news
+IMINE2-E-028	kennedi	web
+IMINE2-E-028	robert f	web
+IMINE2-E-028	bobbi	video
+IMINE2-E-028	right	web
+IMINE2-E-028	robert franci	web
+IMINE2-E-028	franci	web
+IMINE2-E-028	human	web
+IMINE2-E-028	human right	web
+IMINE2-E-028	robert f kennedi	video
+IMINE2-E-028	f kennedi	video
+IMINE2-E-029	amaz	video
+IMINE2-E-029	seri	news
+IMINE2-E-029	handbag	web
+IMINE2-E-029	discov	video
+IMINE2-E-029	anim	video
+IMINE2-E-029	find	video
+IMINE2-E-029	women	web
+IMINE2-E-029	free	web
+IMINE2-E-029	ship	web
+IMINE2-E-029	free ship	web
+IMINE2-E-030	film	news
+IMINE2-E-030	offici	news
+IMINE2-E-030	jedi	web
+IMINE2-E-030	last	video
+IMINE2-E-030	last jedi	video
+IMINE2-E-030	episod	news
+IMINE2-E-030	movi	image
+IMINE2-E-030	awaken	image
+IMINE2-E-030	releas	news
+IMINE2-E-030	announc	news
+IMINE2-E-031	syrup	video
+IMINE2-E-031	tap	video
+IMINE2-E-031	sap	video
+IMINE2-E-031	mapl syrup	video
+IMINE2-E-031	sugar	video
+IMINE2-E-031	make	video
+IMINE2-E-031	speci	web
+IMINE2-E-031	make mapl	video
+IMINE2-E-031	make mapl syrup	video
+IMINE2-E-031	sugar mapl tree	video
+IMINE2-E-032	isi	video
+IMINE2-E-032	iraqi	video
+IMINE2-E-032	battl	video
+IMINE2-E-032	footag	video
+IMINE2-E-032	mosul	video
+IMINE2-E-032	combat	video
+IMINE2-E-032	urban	video
+IMINE2-E-032	dure	video
+IMINE2-E-032	timelin	web
+IMINE2-E-032	viewsiraq	video
+IMINE2-E-033	toi	video
+IMINE2-E-033	christma	video
+IMINE2-E-033	bad	video
+IMINE2-E-033	video	video
+IMINE2-E-033	egg	video
+IMINE2-E-033	holidai	web
+IMINE2-E-033	see	video
+IMINE2-E-033	babi	video
+IMINE2-E-033	bad babi	video
+IMINE2-E-033	eat	video
+IMINE2-E-034	project	web
+IMINE2-E-034	video	video
+IMINE2-E-034	beginn	video
+IMINE2-E-034	want	video
+IMINE2-E-034	artist	video
+IMINE2-E-034	start	video
+IMINE2-E-034	basic	video
+IMINE2-E-034	get	video
+IMINE2-E-034	instagram	video
+IMINE2-E-034	know	video
+IMINE2-E-035	moodi	web
+IMINE2-E-035	blue -	video
+IMINE2-E-035	moodi blue -	video
+IMINE2-E-035	viewsth	video
+IMINE2-E-035	find	web
+IMINE2-E-035	offici	web
+IMINE2-E-035	music	web
+IMINE2-E-035	viewsth moodi blue	video
+IMINE2-E-035	viewsth moodi	video
+IMINE2-E-035	band	video
+IMINE2-E-036	viewsuyghur	video
+IMINE2-E-036	queen	web
+IMINE2-E-036	restaur	video
+IMINE2-E-036	food	image
+IMINE2-E-036	xinjiang	web
+IMINE2-E-036	www	video
+IMINE2-E-036	uyghurrestaur	video
+IMINE2-E-036	uyghur food	web
+IMINE2-E-036	china	web
+IMINE2-E-036	uyghur cuisin uyghurrestuar	video
+IMINE2-E-037	select	web
+IMINE2-E-037	shop	web
+IMINE2-E-037	price	web
+IMINE2-E-037	free	web
+IMINE2-E-037	electr	web
+IMINE2-E-037	plai	video
+IMINE2-E-037	best	web
+IMINE2-E-037	acoust	web
+IMINE2-E-037	www	video
+IMINE2-E-037	fender	video
+IMINE2-E-038	world	video
+IMINE2-E-038	tabl	video
+IMINE2-E-038	hand	video
+IMINE2-E-038	plai	web
+IMINE2-E-038	main event	video
+IMINE2-E-038	event	video
+IMINE2-E-038	main	video
+IMINE2-E-038	poker hand	video
+IMINE2-E-038	watch	video
+IMINE2-E-038	pokerstar	video
+IMINE2-E-039	spit	video
+IMINE2-E-039	video	video
+IMINE2-E-039	like	video
+IMINE2-E-039	bird	image
+IMINE2-E-039	www	video
+IMINE2-E-039	subscrib	video
+IMINE2-E-039	bit	video
+IMINE2-E-039	youtube	video
+IMINE2-E-039	call	web
+IMINE2-E-039	twitter	video
+IMINE2-E-040	mon go	video
+IMINE2-E-040	game	video
+IMINE2-E-040	pokemon go	video
+IMINE2-E-040	gen	video
+IMINE2-E-040	pok mon	web
+IMINE2-E-040	plai	video
+IMINE2-E-040	like	video
+IMINE2-E-040	list	web
+IMINE2-E-040	final	video
+IMINE2-E-040	enjoi	video
+IMINE2-E-041	video	video
+IMINE2-E-041	umpir	news
+IMINE2-E-041	arnaud gaba	news
+IMINE2-E-041	arnaud	news
+IMINE2-E-041	hit	news
+IMINE2-E-041	umpir arnaud	news
+IMINE2-E-041	umpir arnaud gaba	news
+IMINE2-E-041	ball	news
+IMINE2-E-041	shapovalov	news
+IMINE2-E-041	neurotransmitt	video
+IMINE2-E-042	funni	video
+IMINE2-E-042	compil	video
+IMINE2-E-042	funni cat	video
+IMINE2-E-042	funni cat compil	video
+IMINE2-E-042	cat compil	video
+IMINE2-E-042	video	video
+IMINE2-E-042	cat video	video
+IMINE2-E-042	ever	video
+IMINE2-E-042	look	video
+IMINE2-E-042	make	video
+IMINE2-E-043	boi	web
+IMINE2-E-043	babi	video
+IMINE2-E-043	babi boi	video
+IMINE2-E-043	babi boi name	video
+IMINE2-E-043	babi name	image
+IMINE2-E-043	list	video
+IMINE2-E-043	mean	web
+IMINE2-E-043	dai	news
+IMINE2-E-043	choos	web
+IMINE2-E-043	love	video
+IMINE2-E-044	tutori	video
+IMINE2-E-044	present	video
+IMINE2-E-044	slide	web
+IMINE2-E-044	free	web
+IMINE2-E-044	know	video
+IMINE2-E-044	creat	video
+IMINE2-E-044	learn	video
+IMINE2-E-044	powerpoint 2010	video
+IMINE2-E-044	microsoft	web
+IMINE2-E-044	slide master	web
+IMINE2-E-045	land	news
+IMINE2-E-045	copenhagen	web
+IMINE2-E-045	subscrib	video
+IMINE2-E-045	danish	video
+IMINE2-E-045	denmark s	news
+IMINE2-E-045	visit	video
+IMINE2-E-045	countri	video
+IMINE2-E-045	found	video
+IMINE2-E-045	win	news
+IMINE2-E-045	hard	news
+IMINE2-E-046	simpl	video
+IMINE2-E-046	show	video
+IMINE2-E-046	techniqu	video
+IMINE2-E-046	plant	video
+IMINE2-E-046	programme	news
+IMINE2-E-046	home	web
+IMINE2-E-046	veget	video
+IMINE2-E-046	tool	web
+IMINE2-E-046	tip	video
+IMINE2-E-046	veget garden	video
+IMINE2-E-047	sampl	video
+IMINE2-E-047	two	web
+IMINE2-E-047	video	video
+IMINE2-E-047	statist	web
+IMINE2-E-047	varianc	web
+IMINE2-E-047	mean	web
+IMINE2-E-047	independ	video
+IMINE2-E-047	explain	video
+IMINE2-E-047	hypothesi	web
+IMINE2-E-047	der	video
+IMINE2-E-048	metal	video
+IMINE2-E-048	sodium metal	video
+IMINE2-E-048	water	video
+IMINE2-E-048	reaction	video
+IMINE2-E-048	react	news
+IMINE2-E-048	viewsi	video
+IMINE2-E-048	explos	video
+IMINE2-E-048	common	image
+IMINE2-E-048	salt	web
+IMINE2-E-048	high	web
+IMINE2-E-049	food	web
+IMINE2-E-049	make	video
+IMINE2-E-049	dish	web
+IMINE2-E-049	delici	video
+IMINE2-E-049	bbc	news
+IMINE2-E-049	easi	video
+IMINE2-E-049	paella	web
+IMINE2-E-049	viewslearn	video
+IMINE2-E-049	chicken	web
+IMINE2-E-049	potato	video
+IMINE2-E-050	contact	web
+IMINE2-E-050	unit airlin	image
+IMINE2-E-050	phone number	video
+IMINE2-E-050	reserv	web
+IMINE2-E-050	book	video
+IMINE2-E-050	ticket	video
+IMINE2-E-050	flight	video
+IMINE2-E-050	custom	web
+IMINE2-E-050	servic	web
+IMINE2-E-050	call	web
+IMINE2-E-051	vision	video
+IMINE2-E-051	natur	web
+IMINE2-E-051	restor	video
+IMINE2-E-051	improv	video
+IMINE2-E-051	vision natur	web
+IMINE2-E-051	glass	video
+IMINE2-E-051	fast	video
+IMINE2-E-051	hi eyesight	news
+IMINE2-E-051	get	video
+IMINE2-E-051	exercis	video
+IMINE2-E-052	childhood	video
+IMINE2-E-052	childhood obes	video
+IMINE2-E-052	prevent obes	web
+IMINE2-E-052	strategi	web
+IMINE2-E-052	health	web
+IMINE2-E-052	overweight	web
+IMINE2-E-052	childhood obes prevent	video
+IMINE2-E-052	prevent strategi	web
+IMINE2-E-052	present	video
+IMINE2-E-052	epidem	web
+IMINE2-E-053	remedi	web
+IMINE2-E-053	watch	video
+IMINE2-E-053	video	video
+IMINE2-E-053	long	video
+IMINE2-E-053	super	video
+IMINE2-E-053	natur	video
+IMINE2-E-053	viewsth	video
+IMINE2-E-053	dai	video
+IMINE2-E-053	fast	video
+IMINE2-E-053	secret	video
+IMINE2-E-054	smoke	web
+IMINE2-E-054	video	video
+IMINE2-E-054	stop	video
+IMINE2-E-054	stop smoke	video
+IMINE2-E-054	wai	web
+IMINE2-E-054	bodi	video
+IMINE2-E-054	support	news
+IMINE2-E-054	show	news
+IMINE2-E-054	want	news
+IMINE2-E-054	best	web
+IMINE2-E-055	height	web
+IMINE2-E-055	inch	web
+IMINE2-E-055	creat	video
+IMINE2-E-055	increas	web
+IMINE2-E-055	help	video
+IMINE2-E-055	tip	web
+IMINE2-E-055	get	web
+IMINE2-E-055	4 inch	web
+IMINE2-E-055	secret	video
+IMINE2-E-055	video	video
+IMINE2-E-056	get	video
+IMINE2-E-056	better sleep	web
+IMINE2-E-056	app	image
+IMINE2-E-056	goo	video
+IMINE2-E-056	runtast	image
+IMINE2-E-056	hour	video
+IMINE2-E-056	help	news
+IMINE2-E-056	video	video
+IMINE2-E-056	stress	video
+IMINE2-E-056	tip	video
+IMINE2-E-057	tip	web
+IMINE2-E-057	reduc	web
+IMINE2-E-057	anxieti	video
+IMINE2-E-057	relax	video
+IMINE2-E-057	www	video
+IMINE2-E-057	wai	web
+IMINE2-E-057	relief	video
+IMINE2-E-057	reduc stress	web
+IMINE2-E-057	medit	video
+IMINE2-E-057	simpl	web
+IMINE2-E-058	learn	video
+IMINE2-E-058	learn french	video
+IMINE2-E-058	phrase	video
+IMINE2-E-058	video	video
+IMINE2-E-058	viewslearn	video
+IMINE2-E-058	languag	web
+IMINE2-E-058	free	web
+IMINE2-E-058	www	video
+IMINE2-E-058	lesson	video
+IMINE2-E-058	french lesson	video
+IMINE2-E-059	video	video
+IMINE2-E-059	learn	web
+IMINE2-E-059	mount	web
+IMINE2-E-059	it'	video
+IMINE2-E-059	start	web
+IMINE2-E-059	free	video
+IMINE2-E-059	tip	video
+IMINE2-E-059	expert	video
+IMINE2-E-059	www	video
+IMINE2-E-059	easi	video
+IMINE2-E-060	speed	video
+IMINE2-E-060	increas	web
+IMINE2-E-060	tip	web
+IMINE2-E-060	viewshow	video
+IMINE2-E-060	get	video
+IMINE2-E-060	runner	web
+IMINE2-E-060	video	video
+IMINE2-E-060	sprint	video
+IMINE2-E-060	without	web
+IMINE2-E-060	make	news
+IMINE2-E-061	lesson	video
+IMINE2-E-061	goo	video
+IMINE2-E-061	korean alphabet	video
+IMINE2-E-061	alphabet	video
+IMINE2-E-061	video	video
+IMINE2-E-061	just	web
+IMINE2-E-061	app	video
+IMINE2-E-061	speak	web
+IMINE2-E-061	speak korean	web
+IMINE2-E-061	idea	image
+IMINE2-E-062	plai	video
+IMINE2-E-062	onlin	web
+IMINE2-E-062	learn	video
+IMINE2-E-062	piano lesson	image
+IMINE2-E-062	app	web
+IMINE2-E-062	year	video
+IMINE2-E-062	music	news
+IMINE2-E-062	lesson	image
+IMINE2-E-062	www	video
+IMINE2-E-062	learn piano	web
+IMINE2-E-063	ar creat	image
+IMINE2-E-063	firefight	web
+IMINE2-E-063	men ar	image
+IMINE2-E-063	men	image
+IMINE2-E-063	equal	image
+IMINE2-E-063	ar creat equal	image
+IMINE2-E-063	men ar creat	image
+IMINE2-E-063	creat equal	image
+IMINE2-E-063	creat	image
+IMINE2-E-063	fighter	video
+IMINE2-E-064	free	web
+IMINE2-E-064	job	video
+IMINE2-E-064	show	video
+IMINE2-E-064	exampl	web
+IMINE2-E-064	word	video
+IMINE2-E-064	find	video
+IMINE2-E-064	dai	news
+IMINE2-E-064	microsoft word	video
+IMINE2-E-064	microsoft	video
+IMINE2-E-064	want	video
+IMINE2-E-065	offer	web
+IMINE2-E-065	seri	news
+IMINE2-E-065	dai	video
+IMINE2-E-065	video	video
+IMINE2-E-065	thank	video
+IMINE2-E-065	price	web
+IMINE2-E-065	friend	video
+IMINE2-E-065	get	news
+IMINE2-E-065	plan	web
+IMINE2-E-065	bridal	web
+IMINE2-E-066	swing	video
+IMINE2-E-066	golf swing	video
+IMINE2-E-066	plai	web
+IMINE2-E-066	simpl	video
+IMINE2-E-066	plai golf	web
+IMINE2-E-066	wai	web
+IMINE2-E-066	take	web
+IMINE2-E-066	www	video
+IMINE2-E-066	basic	video
+IMINE2-E-066	need	video
+IMINE2-E-067	type	web
+IMINE2-E-067	touch type	web
+IMINE2-E-067	learn	web
+IMINE2-E-067	skill	video
+IMINE2-E-067	touch typing	web
+IMINE2-E-067	without	web
+IMINE2-E-067	keyboard	web
+IMINE2-E-067	fast	video
+IMINE2-E-067	type without	web
+IMINE2-E-067	faster	video
+IMINE2-E-068	relief	web
+IMINE2-E-068	debt relief	image
+IMINE2-E-068	credit	web
+IMINE2-E-068	cord	video
+IMINE2-E-068	cut	video
+IMINE2-E-068	matter	video
+IMINE2-E-068	bibl	video
+IMINE2-E-068	review	video
+IMINE2-E-068	get	web
+IMINE2-E-068	www	video
+IMINE2-E-069	garden	web
+IMINE2-E-069	veget garden	web
+IMINE2-E-069	need	web
+IMINE2-E-069	tip	web
+IMINE2-E-069	plant	web
+IMINE2-E-069	help	video
+IMINE2-E-069	fruit	video
+IMINE2-E-069	beginn	web
+IMINE2-E-069	here'	web
+IMINE2-E-069	lot	news
+IMINE2-E-070	california	image
+IMINE2-E-070	watch tour	web
+IMINE2-E-070	tour	web
+IMINE2-E-070	whale watch tour	web
+IMINE2-E-070	encount	video
+IMINE2-E-070	dai	video
+IMINE2-E-070	boat	video
+IMINE2-E-070	dolphin	web
+IMINE2-E-070	trip	web
+IMINE2-E-070	cruis	web
+IMINE2-E-071	spend christma	web
+IMINE2-E-071	wai	web
+IMINE2-E-071	celebr	video
+IMINE2-E-071	alon	web
+IMINE2-E-071	spend christma alon	web
+IMINE2-E-071	christma alon	web
+IMINE2-E-071	thing	web
+IMINE2-E-071	dec	web
+IMINE2-E-071	dai	web
+IMINE2-E-071	watch	video
+IMINE2-E-072	hous	image
+IMINE2-E-072	vid	video
+IMINE2-E-072	video	video
+IMINE2-E-072	hous clean	image
+IMINE2-E-072	motiv	video
+IMINE2-E-072	routin	video
+IMINE2-E-072	clean routin	video
+IMINE2-E-072	tip	video
+IMINE2-E-072	eco-friendli	web
+IMINE2-E-072	share	video
+IMINE2-E-073	itali	image
+IMINE2-E-073	trip	video
+IMINE2-E-073	italian	video
+IMINE2-E-073	citi	video
+IMINE2-E-073	visit	video
+IMINE2-E-073	see	web
+IMINE2-E-073	guid	video
+IMINE2-E-073	viewsi	video
+IMINE2-E-073	tip	video
+IMINE2-E-073	vlog	video
+IMINE2-E-074	hawaii travel	web
+IMINE2-E-074	video	video
+IMINE2-E-074	guid	video
+IMINE2-E-074	land	news
+IMINE2-E-074	island	web
+IMINE2-E-074	travel guid	video
+IMINE2-E-074	vacat	web
+IMINE2-E-074	hawaii vacat	web
+IMINE2-E-074	maui	video
+IMINE2-E-074	honolulu	video
+IMINE2-E-075	marin	video
+IMINE2-E-075	seattl	video
+IMINE2-E-075	seat	web
+IMINE2-E-075	mlb	video
+IMINE2-E-075	basebal	video
+IMINE2-E-075	direct	web
+IMINE2-E-075	seattl marin	image
+IMINE2-E-075	ballpark	video
+IMINE2-E-075	game	video
+IMINE2-E-075	venu	web
+IMINE2-E-076	sceneri	image
+IMINE2-E-076	free	web
+IMINE2-E-076	sceneri wallpap	video
+IMINE2-E-076	beauti	video
+IMINE2-E-076	download	web
+IMINE2-E-076	beauti sceneri	web
+IMINE2-E-076	background	web
+IMINE2-E-076	hd wallpap	web
+IMINE2-E-076	landscap	video
+IMINE2-E-076	interior	video
+IMINE2-E-077	birthdai	image
+IMINE2-E-077	happi	web
+IMINE2-E-077	happi birthdai	video
+IMINE2-E-077	free	web
+IMINE2-E-077	motion	video
+IMINE2-E-077	motion graphic	video
+IMINE2-E-077	video	video
+IMINE2-E-077	anim	video
+IMINE2-E-077	facebook	image
+IMINE2-E-077	viewshappi	video
+IMINE2-E-078	make	video
+IMINE2-E-078	greet	video
+IMINE2-E-078	greet card	video
+IMINE2-E-078	card design	image
+IMINE2-E-078	show	video
+IMINE2-E-078	easi	video
+IMINE2-E-078	vector	image
+IMINE2-E-078	greet card design	video
+IMINE2-E-078	year card	web
+IMINE2-E-078	video	video
+IMINE2-E-079	easi	video
+IMINE2-E-079	tutori	web
+IMINE2-E-079	flower draw	web
+IMINE2-E-079	see	web
+IMINE2-E-079	kid	video
+IMINE2-E-079	dai	news
+IMINE2-E-079	sketch	web
+IMINE2-E-079	watch	video
+IMINE2-E-079	draw flower	video
+IMINE2-E-079	rose	video
+IMINE2-E-080	pictur	web
+IMINE2-E-080	viewsmichael jackson	image
+IMINE2-E-080	viewsmichael	image
+IMINE2-E-080	imag	web
+IMINE2-E-080	rare	image
+IMINE2-E-080	michael jackson'	video
+IMINE2-E-080	jackson'	video
+IMINE2-E-080	video	image
+IMINE2-E-080	rare pictur	image
+IMINE2-E-080	it'	image
+IMINE2-E-081	latest	web
+IMINE2-E-081	intern	web
+IMINE2-E-081	video	web
+IMINE2-E-081	break	image
+IMINE2-E-081	latest world	web
+IMINE2-E-081	bbc	news
+IMINE2-E-081	depth	news
+IMINE2-E-081	europ	web
+IMINE2-E-081	headlin	web
+IMINE2-E-081	programm	news
+IMINE2-E-082	trade deal	news
+IMINE2-E-082	tpp talk	news
+IMINE2-E-082	trade	news
+IMINE2-E-082	deal	news
+IMINE2-E-082	talk	news
+IMINE2-E-082	pacif	web
+IMINE2-E-082	trans-pacif	web
+IMINE2-E-082	agreement	web
+IMINE2-E-082	partnership	web
+IMINE2-E-082	mgs5 tpp	video
+IMINE2-E-083	gmt	news
+IMINE2-E-083	basebal	web
+IMINE2-E-083	sport	web
+IMINE2-E-083	game	web
+IMINE2-E-083	hit	news
+IMINE2-E-083	juli	news
+IMINE2-E-083	juli 2002	news
+IMINE2-E-083	home	news
+IMINE2-E-083	win	news
+IMINE2-E-083	run	news
+IMINE2-E-084	iphon	image
+IMINE2-E-084	mac	web
+IMINE2-E-084	apple'	video
+IMINE2-E-084	viewsappl	video
+IMINE2-E-084	rumor	web
+IMINE2-E-084	pro	video
+IMINE2-E-084	appl iphon	image
+IMINE2-E-084	iphon 7	video
+IMINE2-E-084	date	video
+IMINE2-E-084	latest appl	web
+IMINE2-E-085	world updat	news
+IMINE2-E-085	world	news
+IMINE2-E-085	obama'	video
+IMINE2-E-085	presid	news
+IMINE2-E-085	barack	web
+IMINE2-E-085	barack obama	web
+IMINE2-E-085	also	news
+IMINE2-E-085	pictur	news
+IMINE2-E-085	break	video
+IMINE2-E-085	updat obama	news
+IMINE2-E-086	cpu	web
+IMINE2-E-086	process	web
+IMINE2-E-086	graphic	web
+IMINE2-E-086	differ	web
+IMINE2-E-086	comput	web
+IMINE2-E-086	chip	web
+IMINE2-E-086	calcul	web
+IMINE2-E-086	processor	web
+IMINE2-E-086	explain	video
+IMINE2-E-086	graphic process unit	web
+IMINE2-E-087	headset	web
+IMINE2-E-087	video	video
+IMINE2-E-087	phone	web
+IMINE2-E-087	wireless	web
+IMINE2-E-087	get	web
+IMINE2-E-087	headphon	web
+IMINE2-E-087	receiv	video
+IMINE2-E-087	home	video
+IMINE2-E-087	best	web
+IMINE2-E-087	free	web
+IMINE2-E-088	learn	video
+IMINE2-E-088	point c	news
+IMINE2-E-088	hinklei	news
+IMINE2-E-088	hinklei point	news
+IMINE2-E-088	hinklei point c	news
+IMINE2-E-088	nuclear	news
+IMINE2-E-088	materi	web
+IMINE2-E-088	given	video
+IMINE2-E-088	line	video
+IMINE2-E-088	work	news
+IMINE2-E-089	video	video
+IMINE2-E-089	exampl	web
+IMINE2-E-089	thing	web
+IMINE2-E-089	mean	web
+IMINE2-E-089	comparison	web
+IMINE2-E-089	analog exampl	web
+IMINE2-E-089	dictionari	web
+IMINE2-E-089	show	video
+IMINE2-E-089	word	video
+IMINE2-E-089	two thing	web
+IMINE2-E-090	parkinson' diseas	image
+IMINE2-E-090	parkinson'	web
+IMINE2-E-090	medic	video
+IMINE2-E-090	symptom	video
+IMINE2-E-090	movement	video
+IMINE2-E-090	www	video
+IMINE2-E-090	caus	image
+IMINE2-E-090	org	video
+IMINE2-E-090	nervou system	video
+IMINE2-E-090	nervou	video
+IMINE2-E-091	slr	web
+IMINE2-E-091	camera	web
+IMINE2-E-091	best	web
+IMINE2-E-091	digit	web
+IMINE2-E-091	dslr	image
+IMINE2-E-091	slr camera	web
+IMINE2-E-091	beginn	web
+IMINE2-E-091	take	web
+IMINE2-E-091	interchang	web
+IMINE2-E-091	video	video
+IMINE2-E-092	white chocol	web
+IMINE2-E-092	face	video
+IMINE2-E-092	ingredi	video
+IMINE2-E-092	fat	web
+IMINE2-E-092	milk	web
+IMINE2-E-092	make	video
+IMINE2-E-092	recip	video
+IMINE2-E-092	cocoa	web
+IMINE2-E-092	butter	video
+IMINE2-E-092	solid	web
+IMINE2-E-093	eat	web
+IMINE2-E-093	thei	web
+IMINE2-E-093	viewsi	image
+IMINE2-E-093	tree	image
+IMINE2-E-093	video	image
+IMINE2-E-093	plant	image
+IMINE2-E-093	show	image
+IMINE2-E-093	grow	image
+IMINE2-E-093	banana tree	image
+IMINE2-E-093	know	image
+IMINE2-E-094	school	image
+IMINE2-E-094	peopl	web
+IMINE2-E-094	american	image
+IMINE2-E-094	high	image
+IMINE2-E-094	high school	image
+IMINE2-E-094	intern	image
+IMINE2-E-094	explain	image
+IMINE2-E-094	studi	image
+IMINE2-E-094	colleg vs	image
+IMINE2-E-094	commun colleg	image
+IMINE2-E-095	broken zipper	web
+IMINE2-E-095	wai	web
+IMINE2-E-095	show	video
+IMINE2-E-095	separ	video
+IMINE2-E-095	common	web
+IMINE2-E-095	repair	web
+IMINE2-E-095	close	video
+IMINE2-E-095	fix broken	web
+IMINE2-E-095	fix broken zipper	web
+IMINE2-E-095	easi	web
+IMINE2-E-096	best	video
+IMINE2-E-096	budget	video
+IMINE2-E-096	shop	web
+IMINE2-E-096	best budget	video
+IMINE2-E-096	budget laptop	video
+IMINE2-E-096	best budget laptop	video
+IMINE2-E-096	best laptop	video
+IMINE2-E-096	5 best	video
+IMINE2-E-096	top 5	video
+IMINE2-E-096	price	web
+IMINE2-E-097	protect	web
+IMINE2-E-097	iphon 6	web
+IMINE2-E-097	shop	web
+IMINE2-E-097	iphon 7	video
+IMINE2-E-097	best	video
+IMINE2-E-097	plu	image
+IMINE2-E-097	7 case	video
+IMINE2-E-097	iphon 7 case	video
+IMINE2-E-097	top	video
+IMINE2-E-097	appl	news
+IMINE2-E-098	best	video
+IMINE2-E-098	plasma tv	image
+IMINE2-E-098	price	web
+IMINE2-E-098	inch	video
+IMINE2-E-098	cheap	video
+IMINE2-E-098	led	video
+IMINE2-E-098	deal	video
+IMINE2-E-098	bui	video
+IMINE2-E-098	lcd tv	web
+IMINE2-E-098	lcd	web
+IMINE2-E-099	mother'	web
+IMINE2-E-099	dai gift	video
+IMINE2-E-099	dai	web
+IMINE2-E-099	mother' dai	web
+IMINE2-E-099	dii	video
+IMINE2-E-099	mom	web
+IMINE2-E-099	mother' dai gift	web
+IMINE2-E-099	easi	video
+IMINE2-E-099	dii mother	video
+IMINE2-E-099	video	video
+IMINE2-E-100	game	web
+IMINE2-E-100	bui	web
+IMINE2-E-100	playstat	web
+IMINE2-E-100	best	web
+IMINE2-E-100	ps3 game	image
+IMINE2-E-100	bui playstat	web
+IMINE2-E-100	playstat 3	web
+IMINE2-E-100	ps4	web
+IMINE2-E-100	consol	web
+IMINE2-E-100	ps vita	web

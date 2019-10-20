@@ -1,0 +1,5 @@
+{"time":"2017-03-06 18:38:59.281","message":"Searsia restart"}
+{"time":"2017-03-06 20:15:50.250","message":"Sampling GoogleWeb3 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 20; columnNumber: 991; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"time":"2017-03-06 20:36:02.772","message":"Sampling GoogleWeb failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 16; columnNumber: 1187; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"time":"2017-03-06 21:58:38.241","message":"Sampling GoogleWeb2 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 22; columnNumber: 1155; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"time":"2017-03-06 22:20:45.473","message":"Sampling GoogleWeb3 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 22; columnNumber: 1250; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}

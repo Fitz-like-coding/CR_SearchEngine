@@ -1,0 +1,60 @@
+{"time":"2017-02-13 10:13:34.608","message":"Searsia restart"}
+{"time":"2017-02-13 10:14:46.525","message":"Searsia restart"}
+{"time":"2017-02-13 14:05:44.211","message":"Searsia restart"}
+{"time":"2017-02-13 14:22:14.97","message":"Searsia restart"}
+{"time":"2017-02-13 14:24:24.381","message":"Sampling Youtube failed: java.net.SocketTimeoutException: connect timed out"}
+{"time":"2017-02-13 19:15:36.135","message":"Searsia restart"}
+{"time":"2017-02-13 21:04:52.429","message":"Sampling GoogleWeb4 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 18; columnNumber: 3669; The content of elements must consist of well-formed character data or markup."}
+{"time":"2017-02-13 21:46:24.299","message":"Searsia restart"}
+{"time":"2017-02-14 13:01:35.587","message":"Searsia restart"}
+{"time":"2017-02-14 13:58:08.480","message":"Sampling Youtube failed: java.net.SocketTimeoutException: connect timed out"}
+{"time":"2017-02-14 14:02:35.44","message":"Searsia restart"}
+{"warning":"Resource @GoogleWeb2 unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.248"}
+{"warning":"Resource @GoogleImage4 unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.556"}
+{"warning":"Resource @GoogleImage3 unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.557"}
+{"warning":"Resource @GoogleWeb unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.559"}
+{"warning":"Resource @GoogleImage unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.561"}
+{"warning":"Resource @GoogleWeb5 unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.564"}
+{"warning":"Resource @GoogleWeb4 unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.876"}
+{"warning":"Resource @GoogleWeb3 unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.876"}
+{"warning":"Resource @GoogleImage2 unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:01.880"}
+{"warning":"Resource @Youtube5 unavailable: java.net.SocketTimeoutException: connect timed out","time":"2017-02-14 14:28:10.464"}
+{"warning":"Resource @GoogleImage5 unavailable: java.net.UnknownHostException: www.googleapis.com","time":"2017-02-14 14:28:10.786"}
+{"warning":"Resource @Youtube unavailable: java.net.SocketTimeoutException: connect timed out","time":"2017-02-14 14:28:10.885"}
+{"warning":"Resource @Youtube4 unavailable: java.net.SocketTimeoutException: connect timed out","time":"2017-02-14 14:28:10.885"}
+{"warning":"Resource @Youtube3 unavailable: java.net.SocketTimeoutException: connect timed out","time":"2017-02-14 14:28:11.201"}
+{"warning":"Resource @BBCNews unavailable: java.net.SocketTimeoutException: connect timed out","time":"2017-02-14 14:28:11.201"}
+{"warning":"Resource @Youtube2 unavailable: java.net.SocketTimeoutException: connect timed out","time":"2017-02-14 14:28:11.201"}
+{"time":"2017-02-14 14:42:53.128","message":"Sampling GoogleWeb3 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 996; The content of elements must consist of well-formed character data or markup."}
+{"time":"2017-02-14 15:07:01.479","message":"Sampling GoogleWeb4 failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 16; columnNumber: 1144; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"warning":"Resource @GoogleWeb3 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 4; columnNumber: 3345; The content of elements must consist of well-formed character data or markup.","time":"2017-02-14 15:19:12.573"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 15:19:30.239"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 15:21:04.926"}
+{"warning":"Resource @GoogleWeb4 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 24; columnNumber: 3305; The content of elements must consist of well-formed character data or markup.","time":"2017-02-14 15:21:05.590"}
+{"warning":"Resource @GoogleWeb3 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 4; columnNumber: 543; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\".","time":"2017-02-14 15:21:11.426"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 15:22:59.913"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 15:25:31.625"}
+{"warning":"Resource @GoogleWeb5 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 977; The content of elements must consist of well-formed character data or markup.","time":"2017-02-14 15:25:32.598"}
+{"warning":"Resource @GoogleWeb2 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 7; columnNumber: 1021; The content of elements must consist of well-formed character data or markup.","time":"2017-02-14 15:26:44.70"}
+{"warning":"Resource @GoogleWeb5 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 6; columnNumber: 1274; The content of elements must consist of well-formed character data or markup.","time":"2017-02-14 15:26:45.71"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 15:37:58.146"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 15:43:04.943"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 15:43:09.806"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 15:45:03.43"}
+{"time":"2017-02-14 17:59:16.324","message":"Sampling GoogleWeb failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 24; columnNumber: 1187; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:12:03.97"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:12:21.543"}
+{"warning":"Resource @GoogleWeb3 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 16; columnNumber: 1853; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\".","time":"2017-02-14 19:12:22.483"}
+{"warning":"Resource @GoogleWeb5 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 1208; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\".","time":"2017-02-14 19:14:06.551"}
+{"warning":"Resource @GoogleWeb5 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 1208; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\".","time":"2017-02-14 19:14:22.702"}
+{"warning":"Resource @GoogleWeb3 unavailable: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 24; columnNumber: 898; The content of elements must consist of well-formed character data or markup.","time":"2017-02-14 19:16:32.11"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:16:35.9"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:30:17.35"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:31:28.603"}
+{"time":"2017-02-14 19:32:48.227","message":"Searsia restart"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:32:57.42"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:36:50.555"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:37:05.157"}
+{"warning":"Unknown resource identifier: @News","time":"2017-02-14 19:37:34.32"}
+{"time":"2017-02-14 21:23:37.580","message":"Sampling GoogleWeb failed: java.io.IOException: org.xml.sax.SAXParseException; lineNumber: 12; columnNumber: 1185; Element type \"ac-gn-search-field\" must be followed by either attribute specifications, \">\" or \"/>\"."}
+{"warning":"Resource @BBCNews unavailable: java.net.SocketTimeoutException: connect timed out","time":"2017-02-14 21:27:01.120"}
